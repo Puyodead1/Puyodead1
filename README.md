@@ -1,14 +1,11 @@
 Hi,
-I really like cats, and I have a facination with Robotics, Computers, Electronics, and Coding.
+I really like cats, and I have a facination with Robotics, Computers, Electronics, and Coding. Most of my projects are automation utilities, Discord bots, and Minecraft plugins
 
 I have experience in a few languages including:
+ - JavaScript/TypeScript
  - Java
- - JavaScript/Typescript
- - PHP
  - Python
- - C#
- - Basic C++
- - Basic Go
+ - C# (Just the basics)
 
 I currently have 7 Microsoft Certifications:
  - Introduction to Programming Using Java
@@ -18,8 +15,6 @@ I currently have 7 Microsoft Certifications:
  - Security Fundamentals
  - Windows Operating System Fundamentals
  - Introduction to Programming Using HTML and CSS
-
-My current main types of projects are Discord Bots and Minecraft plugins.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=Puyodead1&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puyodead1&layout=compact&langs_count=10)
