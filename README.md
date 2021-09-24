@@ -20,3 +20,14 @@ I currently have 7 Microsoft Certifications:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puyodead1&layout=compact&langs_count=10)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Puyodead1)
 ![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
+
+# Supporting me
+If you are feeling generous and would like to support me, you can donate on one of the following sites.<br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z46C02E)
+[![Patreon](https://camo.githubusercontent.com/2b7105015397da52617ce6775a339b0b99d689d6f644c2ce911c5d472362bcbd/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67)](https://www.patreon.com/)
+
+Or cryptocurrency:
+- BTC: ``3NS9C7ZUkmq37LbmZyr2YDpjQ5cigk2Smj``
+- Doge: ``DGZR8hnXKhPvgsXBFcWmdo6iGQSdhhEGpi``
+- ETH: ``0x3cFF498a5AdC9aCF46b72170C29721e16D1Cbd2a``
+- LTC: ``MSeL5rYP4e39aXFfvbi23uHJG7JoUmZ1jG``
