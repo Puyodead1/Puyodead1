@@ -24,7 +24,7 @@ I currently have 7 Microsoft Certifications:
 # Supporting me
 If you are feeling generous and would like to support me, you can donate on one of the following sites.<br>
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z46C02E)
-[![Patreon](https://camo.githubusercontent.com/2b7105015397da52617ce6775a339b0b99d689d6f644c2ce911c5d472362bcbd/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67)](https://www.patreon.com/)
+[![Patreon](https://camo.githubusercontent.com/2b7105015397da52617ce6775a339b0b99d689d6f644c2ce911c5d472362bcbd/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67)](https://www.patreon.com/Puyodead1)
 
 Or cryptocurrency:
 - BTC: ``3NS9C7ZUkmq37LbmZyr2YDpjQ5cigk2Smj``
