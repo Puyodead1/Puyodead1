@@ -29,6 +29,8 @@ If you are feeling generous and would like to support me, you can donate on one 
 
 [:heart: GitHub Sponsors](https://github.com/sponsors/Puyodead1)
 
+:moneybag: PayPal: puyodead@protonmail.com
+
 Or cryptocurrency:
 - BTC: ``3NS9C7ZUkmq37LbmZyr2YDpjQ5cigk2Smj``
 - Doge: ``DGZR8hnXKhPvgsXBFcWmdo6iGQSdhhEGpi``
