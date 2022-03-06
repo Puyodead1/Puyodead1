@@ -1,11 +1,12 @@
 Hi,
-I really like cats, and I have a facination with Robotics, Computers, Electronics, and Coding. Most of my projects are automation utilities, Discord bots, and Minecraft plugins
+I really like cats, and I have a facination with Robotics, Computers, Electronics, and Coding. Most of my projects are automation utilities, Discord bots, and Minecraft plugins/mods.
 
 I have experience in a few languages including:
  - JavaScript/TypeScript
+  - Python
  - Java
- - Python
  - C# (Just the basics)
+ - PHP
 
 I currently have 7 Microsoft Certifications:
  - Introduction to Programming Using Java
