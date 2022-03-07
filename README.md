@@ -28,7 +28,7 @@ If you are feeling generous and would like to support me, you can donate on one 
 
 [![Patreon](https://camo.githubusercontent.com/2b7105015397da52617ce6775a339b0b99d689d6f644c2ce911c5d472362bcbd/68747470733a2f2f63352e70617472656f6e2e636f6d2f65787465726e616c2f6c6f676f2f6265636f6d655f615f706174726f6e5f627574746f6e2e706e67)](https://www.patreon.com/Puyodead1)
 
-[:coffee: Buy Me a Coffee](https://www.buymeacoffee.com/puyodead1)
+<a href="https://www.buymeacoffee.com/puyodead1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/arial-orange.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
 
 [:heart: GitHub Sponsors](https://github.com/sponsors/Puyodead1)
 
