@@ -3,10 +3,9 @@ I really like cats, and I have a facination with Robotics, Computers, Electronic
 
 I have experience in a few languages including:
  - JavaScript/TypeScript
-  - Python
+ - Python
  - Java
- - C# (Just the basics)
- - PHP
+ - C# (Basics, nothing real complex)
 
 I currently have 7 Microsoft Certifications:
  - Introduction to Programming Using Java
