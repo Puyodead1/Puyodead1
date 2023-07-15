@@ -20,7 +20,7 @@ I currently have 7 Microsoft Certifications:
 ![github stats](https://github-readme-stats.vercel.app/api?username=Puyodead1&count_private=true&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Puyodead1&layout=compact&langs_count=10)
 ![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Puyodead1)
-![Code Time](https://img.shields.io/endpoint?style=plastic&url=https://codetime-api.datreks.com/badge/339?logoColor=white%26project=%26recentMS=0%26showProject=false)
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D339%26project%3D%26in%3D0)](https://codetime.dev)
 
 # Supporting me
 If you are feeling generous and would like to support me, you can donate on one of the following sites.<br>
